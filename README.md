@@ -1,6 +1,6 @@
 # Version Control Final--Choose Your Own Adventure
 
-**Please reference and/or update general.md in the "planning" folder before making changes, especially if you want to make additions/changes to routes other than your main one.**
+**Please reference and/or update general.md in the "planning" folder, especially if you want to make additions/changes to routes other than your main one.**
 
 The "planning" folder has the html files for mapping out the different routes, made with [Domino 2](https://kool.tools/domino2/). Can be viewed in the browser as normal HTML files, import the files to [Domino 2](https://kool.tools/domino2/) to edit.
 
