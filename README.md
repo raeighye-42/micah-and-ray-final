@@ -6,7 +6,9 @@ The "planning" folder has the html files for mapping out the different routes, m
 
 The original file with the start of all three routes is in "planning", but only the three *seperate* route files should be edited.
 
-Don't forget to hit **"export to html"** in Domino 2(scroll to the bottom of the board menu) to **save any changes**. Replace the old html file in "planning" with the new one you just saved, and then push to the GitHub repo as soon as you can to try and keep everything up-to-date.
+Don't forget to hit **"export to html"** in Domino 2(scroll to the bottom of the board menu) to **save any changes**. 
+
+**In the planning branch**, replace the old html file in "planning" with the new one you just saved, and then push to the GitHub repo as soon as you can to try and keep everything up-to-date.
 
 ## Main Routes
 **Slay** *(horror, inevitability)* - planned by Micah
