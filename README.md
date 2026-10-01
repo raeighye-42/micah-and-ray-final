@@ -11,9 +11,9 @@ Don't forget to hit **"export to html"** in Domino 2(scroll to the bottom of the
 ## Main Routes
 **Slay** *(horror, inevitability)* - planned by Micah
 
-**Free** *(survival, regret)* - planned by Ray
+**Free** *(adventure, empathy)* - planned by Ray
 
-**Freeze** *(adventure, empathy)* - optional, will be added if there's time
+**Freeze** *(survival, regret)* - optional, will be added if there's time
 
 ## Basic Domino 2 Controls
 
